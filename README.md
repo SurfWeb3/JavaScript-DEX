@@ -1,4 +1,4 @@
-# JavaScript-DEX-School-Project
+# JavaScript-DEX
 This is a JavaScript DEX School Project, which was part of my programming studies.
 
 Requirements
